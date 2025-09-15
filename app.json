@@ -15,10 +15,12 @@
 "supportsTablet": true
 },
 "android": {
-"adaptiveIcon": {
-"foregroundImage": null,
-"backgroundColor": "#FFFFFF"
-}
+"package": "com.sharmatiffin.greenbite",
+"versionCode": 1
+},
+"web": {
+"bundler": "metro",
+"output": "static"
 }
 }
 }
